@@ -1,3 +1,3 @@
 ## Welcome to The Sparkling Griffin
 
-A newspaper for kids
+<img src="/assets/images/griffin.webp"/>
